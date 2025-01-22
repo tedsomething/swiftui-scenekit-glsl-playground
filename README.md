@@ -2,7 +2,7 @@ A fun SwiftUI and SceneKit demo showcasing a variety of GLSL shader modifiers.
 
 ## Preview
 
-<video width="250" controls>
+<video width="250" controls autoplay>
   <source src="Preview/Preview.mp4" type="video/mp4" />
 </video>
 
